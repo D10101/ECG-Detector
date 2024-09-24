@@ -10,7 +10,7 @@ Atrial fibrillation is a prevalent cardiac arrhythmia that can lead to serious h
 
 The dataset used in this project, `ECG_training.csv`, contains ECG signals along with their corresponding labels for training and evaluation purposes. Due to data size and security considerations, the dataset is not included directly in this repository.
 
-To request access to the dataset, please send an email to [sanjaymythili2002@gmail.com](mailto:sanjaymythili2002@gmail.com). Include the following information in your request:
+To request access to the dataset, please send an email to [dhanush200107@gmail.com](mailto:dhanush200107@gmail.com). Include the following information in your request:
 
 - Your full name
 - Affiliation or organization
